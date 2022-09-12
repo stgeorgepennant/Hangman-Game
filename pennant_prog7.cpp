@@ -2,7 +2,6 @@
 NAME: St Goerge Pennant
 
 Description: Hangman Game
-
 *************************************************************/
 #include <iostream> //standard library for i/o
 #include <string> // always include this when you use the string class
