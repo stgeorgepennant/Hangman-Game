@@ -1,9 +1,5 @@
 /****SAMPLE PROGRAM HEADER*******************************************************
 NAME: St Goerge Pennant
-Due Date: April 06, 2020
-Course: C0P3014
-Assignment: Program 7
-Professor: Sorgente
 
 Description: Hangman Game
 
